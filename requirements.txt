@@ -1,0 +1,7 @@
+bentoml
+torchvision
+tqdm # to visualize the process
+pip-chill # Automatically matches to the python version
+wincertstore #
+
+# -e .

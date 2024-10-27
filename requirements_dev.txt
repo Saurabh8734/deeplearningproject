@@ -1,0 +1,19 @@
+bentoml
+torchvision
+tqdm # to visualize the process
+pip-chill # Automatically matches to the python version
+wincertstore #
+dvc
+mlflow # we can track every process
+ipykernel
+numpy
+pandas
+seaborn
+
+pytest==7.1.3
+tox==3.25.1
+flake8==5.0.4
+mypy==0.971
+black==22.8.0
+
+# -e .
